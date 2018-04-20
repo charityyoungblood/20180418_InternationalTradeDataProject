@@ -1,4 +1,4 @@
-This project includes data from the International Trade Statistics Database, as well as The Observatory of Economic Complexity. The questions proposed for this project were the following: 
+This project includes data from the United Nations International Trade Statistics Database, Department of Economic and Social Affairs/Statistics Division (UN Comtrade), as well as The Observatory of Economic Complexity. The questions proposed for this project were the following: 
 
   1. Which countries have the highest import of the given item? 
   2. Which countries have the highest export of the given item?
@@ -35,4 +35,14 @@ Step 4: Created Data Visualization for each question via Tableau
 Step 5: Created Jupyter Notebook 
 
 Step 6: Uploaded project to Github 
+
+References: 
+
+UN Comtrade website: https://comtrade.un.org
+
+AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011): https://atlas.media.mit.edu/en/
+
+
+
+ 
 
