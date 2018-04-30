@@ -5,37 +5,29 @@ This project includes data from the United Nations International Trade Statistic
 
 The steps for the project were as follows: 
 
-Step 1: Gathered raw data files from The Observatory of Economic Complexity and UN Comtrade Database 
+Step 1: Obtained raw data files from The Observatory of Economic Complexity and UN Comtrade Database 
 
-Step 2: Uploaded data to Microsoft 
+Step 2: Analyzed data using the pandas library in Python, to determine features and target variables  
 
-Step 3: Utilized SQL Queries to locate Women's/Girls Clothing, which is organized by type of clothing and material used
+Step 3: Uploaded CSV files to Microsoft SQL Server Management Studio 
 
-Step 3: Extracted Women's/Girls Clothing items, by ID number, and material types for Cotton and Wool/Fine Animal Hair in the following categories: 
+Step 4: Utilized SQL queries to locate Women's/Girls' Clothing, by type of clothing and material used
 
- ## COTTON ###############
-    - 610220: Women's/girls' overcoats, car-coats, capes, cloaks, anoraks (incl. ski-jackets), wind-cheaters, wind-jackets & similar articles, knitted/crocheted (excl. of 61.04), of cotton  
-    - 620412: Women's/girls' suits (excl. knitted/crocheted), of cotton
-    - 620432: Women's/girls' jackets & blazers (excl. knitted/crocheted), of cotton
-    - 620442: Women's/girls' dresses (excl. knitted/crocheted), of cotton
-    - 620452: Women's/girls' skirts & divided skirts (excl. knitted/crocheted), of cotton
-    - 620462: Women's/girls', trousers, bib & brace overalls, breeches & shorts (excl. swimwear; excl. knitted/crocheted), of cotton
-    - 620630: Women's/girls' blouses, shirts & shirt-blouses (excl. knitted/crocheted), of cotton
+Step 5: Extracted Women's/Girls Clothing items, by ID number, and material types for Cotton and Wool/Fine Animal Hair in the following categories: 
+
+    - Women's/girls' overcoats, car-coats, capes, cloaks, anoraks (incl. ski-jackets), wind-cheaters, wind-jackets & similar articles, knitted/crocheted (excl. of 61.04)  
+    - Women's/girls' suits (excl. knitted/crocheted)
+    - Women's/girls' jackets & blazers (excl. knitted/crocheted)
+    - Women's/girls' dresses (excl. knitted/crocheted)
+    - Women's/girls' skirts & divided skirts (excl. knitted/crocheted)
+    - Women's/girls', trousers, bib & brace overalls, breeches & shorts (excl. swimwear; excl. knitted/crocheted)
+    - Women's/girls' blouses, shirts & shirt-blouses (excl. knitted/crocheted)
     
-  ## WOOL/FINE ANIMAL HAIR ##########
-    - 610210: Women's/girls' overcoats, car-coats, capes, cloaks, anoraks (incl. ski-jackets), wind-cheaters, wind-jackets & similar articles, knitted/crocheted (excl. of 61.04), of wool/fine animal hair
-    - 620411: Women's/girls' suits (excl. knitted/crocheted), of wool/fine animal hair
-    - 610431: Women's/girls' jackets & blazers, knitted/crocheted, of wool/fine animal hair
-    - 610441: Women's/girls' dresses, knitted/crocheted, of wool/fine animal hair
-    - 610451: Women's/girls' skirts & divided skirts, knitted/crocheted, of wool/fine animal hair
-    - 610461: Women's/girls' trousers, bib & brace overalls, breeches & shorts (excl. swimwear), knitted/crocheted, of wool/fine animal hair
-    - 620620: Women's/girls' blouses, shirts & shirt-blouses (excl. knitted/crocheted), of wool/fine animal hair
+Step 6: Created Data Visualizations for each item, organized by Imports and Exports, via Tableau
 
-Step 4: Created Data Visualizations for each item, organized by Imports and Exports, via Tableau
+Step 7: Created Jupyter notebook for project
 
-Step 5: Created Jupyter Notebook for project
-
-Step 6: Uploaded project to Github 
+Step 8: Uploaded project to Github 
 
 References: 
 
@@ -43,7 +35,7 @@ UN Comtrade website: https://comtrade.un.org
 
 AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011): https://atlas.media.mit.edu/en/
 
-**Per licensing agreement, the original data files are not included in this repository. Please visit the UN Comtrade website to access full data sets: https://comtrade.un.org**
+**Per the UN Comtrade usage agreement, the original data files are not included in this repository. Please visit the UN Comtrade website to access full data sets: https://comtrade.un.org**
 
 
 
