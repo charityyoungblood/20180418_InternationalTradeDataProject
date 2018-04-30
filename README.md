@@ -35,7 +35,7 @@ UN Comtrade website: https://comtrade.un.org
 
 AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011): https://atlas.media.mit.edu/en/
 
-**Per the UN Comtrade usage agreement, the original data files are not included in this repository. Please visit the UN Comtrade website to access full data sets: https://comtrade.un.org**
+**Per the UN Comtrade usage agreement, I can only include a sample of the original data files in this repository. Please visit the UN Comtrade website to access full data sets: https://comtrade.un.org**
 
 
 
