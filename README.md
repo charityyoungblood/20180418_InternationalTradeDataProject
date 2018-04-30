@@ -23,7 +23,7 @@ Step 5: Extracted Women's/Girls Clothing items, by ID number, and material types
     - Women's/girls', trousers, bib & brace overalls, breeches & shorts (excl. swimwear; excl. knitted/crocheted)
     - Women's/girls' blouses, shirts & shirt-blouses (excl. knitted/crocheted)
     
-Step 6: Created Data Visualizations via Tableau, for the top 10 countries for each item, organized by Imports and Exports
+Step 6: Created Data Visualizations via Tableau
 
 Step 7: Created Jupyter notebook for project
 
