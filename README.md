@@ -11,7 +11,7 @@ Step 2: Analyzed data using the pandas library in Python, to determine features 
 
 Step 3: Uploaded CSV files to Microsoft SQL Server Management Studio 
 
-Step 4: Utilized SQL queries to locate Women's/Girls' Clothing, by type of clothing and material used
+Step 4: Utilized SQL queries to locate Women's/Girls' clothing, by type of clothing and material used
 
 Step 5: Extracted Women's/Girls Clothing items, by ID number, and material types for Cotton and Wool/Fine Animal Hair in the following categories: 
 
