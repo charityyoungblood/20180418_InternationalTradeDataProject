@@ -1,14 +1,15 @@
 This project includes data from the United Nations International Trade Statistics Database, Department of Economic and Social Affairs/Statistics Division (UN Comtrade), as well as The Observatory of Economic Complexity. The questions proposed for this project were the following: 
 
   1. Which countries have the highest import of the given item? 
-  2. Which countries have the highest export of the given item?
-  3. Comparison between items: which item is exported the most? 
+  2. Which countries have the highest export of the given item? 
 
 The steps for the project were as follows: 
 
 Step 1: Gathered raw data files from The Observatory of Economic Complexity and UN Comtrade Database 
 
-Step 2: Searched data for Women's/Girls Clothing, which is organized by type of clothing and material used
+Step 2: Uploaded data to Microsoft 
+
+Step 3: Utilized SQL Queries to locate Women's/Girls Clothing, which is organized by type of clothing and material used
 
 Step 3: Extracted Women's/Girls Clothing items, by ID number, and material types for Cotton and Wool/Fine Animal Hair in the following categories: 
 
@@ -30,9 +31,9 @@ Step 3: Extracted Women's/Girls Clothing items, by ID number, and material types
     - 610461: Women's/girls' trousers, bib & brace overalls, breeches & shorts (excl. swimwear), knitted/crocheted, of wool/fine animal hair
     - 620620: Women's/girls' blouses, shirts & shirt-blouses (excl. knitted/crocheted), of wool/fine animal hair
 
-Step 4: Created Data Visualization for each question via Tableau
+Step 4: Created Data Visualizations for each item, organized by Imports and Exports, via Tableau
 
-Step 5: Created Jupyter Notebook 
+Step 5: Created Jupyter Notebook for project
 
 Step 6: Uploaded project to Github 
 
@@ -41,6 +42,9 @@ References:
 UN Comtrade website: https://comtrade.un.org
 
 AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011): https://atlas.media.mit.edu/en/
+
+**Per licensing agreement, the original data files are not included in this repository. Please visit the UN Comtrade website to access full data sets: https://comtrade.un.org**
+
 
 
 
